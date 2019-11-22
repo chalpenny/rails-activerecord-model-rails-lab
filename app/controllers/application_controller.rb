@@ -6,4 +6,8 @@ class ApplicationController < ActionController::Base
   def a_method
   end
   
+
+def nothing
+end
+
 end
